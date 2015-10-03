@@ -1,0 +1,15 @@
+{
+    "name": "Vilkaz/yuban8",
+    "require": {
+        "smarty/smarty": "~3.1",
+        "klein/klein": "~2.1",
+        "twbs/bootstrap": "~3.3",
+        "phpunit/phpunit": "~5.0"
+    },
+    "authors": [
+        {
+            "name": "Vilius Kukanauskas",
+            "email": "admin@vilkas.de"
+        }
+    ]
+}
